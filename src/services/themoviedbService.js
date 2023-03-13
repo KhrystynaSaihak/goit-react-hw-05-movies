@@ -3,7 +3,6 @@ import Axios from 'axios';
 export const IMG_URL = 'https://image.tmdb.org/t/p/w500';
 
 const API_KEY = '2b316c342fe13f9049052886494c29f1';
-
 const URL = 'https://api.themoviedb.org/';
 
 const getTrendingMovies = async () => {
